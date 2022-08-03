@@ -1,2 +1,3 @@
 doc-string
 doc-string2
+doc-string3
