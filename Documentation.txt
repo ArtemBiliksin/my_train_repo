@@ -6,3 +6,5 @@ doc-string5
 doc-string6
 doc-string7
 doc-string8
+doc-string9
+
