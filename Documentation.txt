@@ -1,4 +1,8 @@
-doc-string
+doc-string1
 doc-string2
 doc-string3
 doc-string4
+doc-string5
+doc-string6
+doc-string7
+doc-string8
